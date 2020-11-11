@@ -4,7 +4,7 @@
 # sonnenBatterie-Widget
 Widget für die sonnenBatterien EC8.0/SB10
 
-Download: [hier](/SonnenBatterie V1.0.js)
+Download: [>>> hier](SonnenBatterieV1.0.js)
 []()
 
 ZIP-Datei [(Download hier)](/QuickAppCode/SB-Adapter01_V1.1.fqa.zip) 
