@@ -1,7 +1,7 @@
 # scriptable.sonnenBatterie
 |Widget für iOS14 iPhone            |für sonnenBatterie Eco8.0 und Eco10.0    |
 |:-------------------------------------:|:------------------------------------:|
-|![sbWidget](/Images/sbAdapter-Icon.png)   |![sonnenLogo](/Images/sonnenLogo450.png)             |
+|![sbWidget](/img/sb-img01)   |![sonnenLogo](/Images/sonnenLogo450.png)             |
 
 # sonnenBatterie-Widget
 Widget für die sonnenBatterien EC8.0/SB10
@@ -18,7 +18,7 @@ Im Script ist in der oberen Zeile die gültige URL der sonnenBatterie im LAN ein
 
 Das Script liest die Livedaten der sonnenBatterie über die folgende Adresse aus:
 
-````http://<ip-sonnenBatterie>:8080/api/v1/status````
+````APIurl ="http://xxx.xxx.xxx.xx:8080/api/v1/status"````
 
 Diese Daten werden zur Anzeige gebracht und in den lokalen bzw. globalen Variablen als Momentanwerte gespeichert; eine Langzeitspeicherung der Daten, bspw. in einer Datenbank, erfolgt nicht.
 
