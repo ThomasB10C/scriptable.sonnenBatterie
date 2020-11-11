@@ -1,7 +1,7 @@
 # scriptable.sonnenBatterie
 |Widget für iOS14 iPhone            |für sonnenBatterie Eco8.0 und Eco10.0    |
 |:-------------------------------------:|:------------------------------------:|
-|![sbWidget](/img/sb-img01)   |![sonnenLogo](/Images/sonnenLogo450.png)             |
+|![sbWidget](/sb1.jpg)   |![sonnenLogo](/Images/sonnenLogo450.png)             |
 
 # sonnenBatterie-Widget
 Widget für die sonnenBatterien EC8.0/SB10
@@ -39,3 +39,6 @@ Die folgenden API-Daten der Batterie werden verarbeitet:
 ...
 }
 ````
+## Changelog
+
+2020.11.11 Init sbWidget V1.0
