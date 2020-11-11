@@ -1,7 +1,7 @@
 # scriptable.sonnenBatterie
 |Widget für iOS14 iPhone            |für sonnenBatterie Eco8.0 und Eco10.0    |
 |:-------------------------------------:|:------------------------------------:|
-|![sbWidget](sb1.jpg) | ![sonnenLogo](sonnen.png)             |
+|![sbWidget](sb1.jpeg) | ![sonnenLogo](sonnen.png)             |
 
 # sonnenBatterie-Widget
 Widget für die sonnenBatterien EC8.0/SB10
