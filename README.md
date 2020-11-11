@@ -39,4 +39,4 @@ Die folgenden JSON-Daten der Batterie werden verarbeitet:
 ````
 ## Changelog
 
-2020/11/11: sonnenBatterie V1.0 (Widget)
+2020/11/11: sonnenBatterie V1.0 (Widget) init
