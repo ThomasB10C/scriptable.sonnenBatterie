@@ -4,7 +4,9 @@
 # sonnenBatterie-Widget
 Widget für die sonnenBatterien EC8.0/SB10
 
-Zum Download des Scripts: [SonnenBatterie V1.0.js]
+Download: [SonnenBatterie V1.0.js]
+
+ZIP-Datei [(Download hier)](/QuickAppCode/SB-Adapter01_V1.1.fqa.zip) 
 
 ## Kurzbeschreibung
 Das Widget für die sonnenBatterie liest ausgewählte Betriebsdaten der sonnenBatterie über deren API-Schnittstelle aus und stellt diese in einer Übersicht zur Verfügung. Das Script läuft mit Unterstützung der App **Scriptable** auf dem iPhone mit **iOS14**.
