@@ -1,18 +1,16 @@
 # scriptable.sonnenBatterie
-|Widget für iOS14 iPhone            |für sonnenBatterie Eco8.0 und Eco10.0    |
-|:-------------------------------------:|:------------------------------------:|
-|![sbWidget](sb1.jpeg) | ![sonnenLogo](sonnen.png)             |
+![sbWidget](sb1.jpeg)
 
 # sonnenBatterie-Widget
 Widget für die sonnenBatterien EC8.0/SB10
 
 ## Kurzbeschreibung
-Das Wiget für die sonnenBatterie iest ausgewählte Betriebsdaten der sonnenBatterie über deren API-Schnittstelle aus und stellt diese im Widget in einer Übersicht zur Verfügung.
+Das Widget für die sonnenBatterie liest ausgewählte Betriebsdaten der sonnenBatterie über deren API-Schnittstelle aus und stellt diese in einer Übersicht zur Verfügung.
 
 ## Settings
 Im Script ist in der oberen Zeile die gültige URL der sonnenBatterie im LAN einzugeben.
 
-**ip:** - IP-Adresse der sonnenBatterie in der Form 999:999:999:999
+**APIurl:** - IP-Adresse der sonnenBatterie in der Form 999:999:999:999
 
 ## API-Schnittstelle der sonnenBatterie
 
@@ -20,7 +18,7 @@ Das Script liest die Livedaten der sonnenBatterie über die folgende Adresse aus
 
 ````APIurl ="http://xxx.xxx.xxx.xx:8080/api/v1/status"````
 
-Diese Daten werden zur Anzeige gebracht und in den lokalen bzw. globalen Variablen als Momentanwerte gespeichert; eine Langzeitspeicherung der Daten, bspw. in einer Datenbank, erfolgt nicht.
+Diese Daten werden zur Anzeige gebracht, eine Speicherung der Daten, bspw. in einer Datenbank, erfolgt nicht.
 
 Die folgenden API-Daten der Batterie werden verarbeitet:
 
@@ -41,4 +39,4 @@ Die folgenden API-Daten der Batterie werden verarbeitet:
 ````
 ## Changelog
 
-2020.11.11 Init sbWidget V1.0
+2020.11.11: sonnenBatterie V1.0 (Widget)
