@@ -2,7 +2,7 @@
 ![sbWidget](sb1.jpeg)
 
 # sonnenBatterie-Widget
-Widget für die sonnenBatterien EC8.0/SB10
+Widget für die sonnenBatterien ECO 8.0/SB10
 
 Download: >>> [hier](SonnenBatterieV2.0.js)
 
